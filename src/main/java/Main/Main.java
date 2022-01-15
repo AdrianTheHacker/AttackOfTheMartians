@@ -2,7 +2,7 @@
 
 package Main;
 
-public class SpaceShooterGame {
+public class Main {
     public static void main(String[] args) {
         System.out.println("The Martians Are Attacking");
 
